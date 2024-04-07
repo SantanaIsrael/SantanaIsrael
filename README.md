@@ -16,7 +16,5 @@
   <a href = "mailto:israel.andocomdeus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/israel-santana-29189b1b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    	<a href="https://wa.me/71992134057" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 
-  ![snake gif](https://github.com/SantanaIsrael/SantanaIsrael/blob/output/github-contribution-grid-snake.svg)
 
   </div>
