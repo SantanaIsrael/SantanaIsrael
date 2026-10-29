@@ -12,6 +12,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://santanaisrael.github.io">
+    <img src="https://img.shields.io/badge/🌐%20Acesse%20meu%20portfólio-2563EB?style=for-the-badge" alt="Acesse meu portfólio" />
+  </a>
+</div>
+
 ## Sobre mim
 
 - 🎓 Graduando em **Ciência da Computação**.
